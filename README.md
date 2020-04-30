@@ -1,4 +1,8 @@
 # json-circular-stringify
+
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/kbaylosis/json-circular-stringify)](https://www.npmjs.com/package/json-circular-stringify)
+[![Build Status](https://travis-ci.org/kbaylosis/json-circular-stringify.svg?branch=master)](https://travis-ci.org/kbaylosis/json-circular-stringify)
+
 Overrides JSON's stringify to handle circular references
 
 # Installation
