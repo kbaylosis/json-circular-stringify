@@ -1,6 +1,6 @@
 {
   "name": "json-circular-stringify",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Overrides JSON's stringify to handle circular references",
   "main": "index.js",
   "scripts": {
